@@ -1,5 +1,5 @@
 # pomelo-awesome
-学习 pomelo 过程中收集的资料
+学习 pomelo 和 Cocos Creator 过程中收集的资料
 
 # 教程
 + [简书专题：pomelo 游戏开发](http://www.jianshu.com/c/f42580039b45)
