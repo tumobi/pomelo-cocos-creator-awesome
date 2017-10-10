@@ -7,6 +7,7 @@
 
 # Cocos Creator相关
 + [CocosCreator-Pomelo-plugin](https://github.com/tumobi/CocosCreator-Pomelo-plugin) Cocos Creator客户端Pomelo插件
++ [如何在CocosCreator 最新1.5版本中集成 Pomelo](http://www.jianshu.com/p/c64f7607adee)
 
 
 
