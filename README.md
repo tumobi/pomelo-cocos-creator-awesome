@@ -12,5 +12,8 @@
 + [如何在CocosCreator 最新1.5版本中集成 Pomelo](http://www.jianshu.com/p/c64f7607adee)
 + [cocos creator里添加pomelo所需的js文件及使用说明](https://github.com/isghost/pomelococoscreator)
 
+# Cocos Creator 和 Pomelo 项目
++ [躲猫猫 - (cocos creator + pomelo)](https://github.com/wohow/peekaboo-master)
++ [大圣棋牌 -（Pomelo + Cocos Creator）](https://github.com/ligun123/chess)
 
 
