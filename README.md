@@ -2,6 +2,7 @@
 学习 pomelo 和 Cocos Creator 过程中收集的资料
 
 # 教程
++ [nodejs+pomelo+mysql实战经验分享](https://cnodejs.org/topic/582e992f0249714d79d41a74)
 + [简书专题：pomelo 游戏开发](http://www.jianshu.com/c/f42580039b45)
 + [Pomelo框架参考](http://www.jianshu.com/p/dJxnFT)
 + [pomelo - 寒风 - CSDN博客](http://blog.csdn.net/xufeng0991/article/category/3173009)
