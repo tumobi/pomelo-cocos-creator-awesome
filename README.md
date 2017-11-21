@@ -7,6 +7,7 @@
 + [Pomelo框架参考](http://www.jianshu.com/p/dJxnFT)
 + [pomelo - 寒风 - CSDN博客](http://blog.csdn.net/xufeng0991/article/category/3173009)
 + [专栏：pomelo入门 - CSDN博客](http://blog.csdn.net/column/details/pomelo.html)
++ [分类: Pomelo | Vitah's Blog](http://www.vitah.net/categories/Pomelo/)
 
 # Cocos Creator 相关
 + [CocosCreator-Pomelo-plugin](https://github.com/tumobi/CocosCreator-Pomelo-plugin) Cocos Creator客户端Pomelo插件
