@@ -8,6 +8,8 @@
 + [pomelo - 寒风 - CSDN博客](http://blog.csdn.net/xufeng0991/article/category/3173009)
 + [专栏：pomelo入门 - CSDN博客](http://blog.csdn.net/column/details/pomelo.html)
 + [分类: Pomelo | Vitah's Blog](http://www.vitah.net/categories/Pomelo/)
++ [remote的写法支持es6的class么](https://github.com/NetEase/pomelo/issues/869)
++ [pomelo-admin-web 不能使用及其解决方案](https://github.com/itenyh/pomelo_admin_web_glue)
 
 # Cocos Creator 相关
 + [CocosCreator-Pomelo-plugin](https://github.com/tumobi/CocosCreator-Pomelo-plugin) Cocos Creator客户端Pomelo插件
