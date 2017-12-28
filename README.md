@@ -19,6 +19,8 @@
 
 # Cocos Creator 和 Pomelo 项目
 + [躲猫猫 - (cocos creator + pomelo)](https://github.com/wohow/peekaboo-master)
-+ [大圣棋牌 -（Pomelo + Cocos Creator）](https://github.com/ligun123/chess)
++ [大圣棋牌 -（Pomelo + Cocos Creator）](https:/github.com/ligun123/chess)
++ [一个TypeScript写的node.js分布式游戏/应用服务器框架（原型基于pomelo）](https://github.com/node-pinus/pinus)
+
 
 
