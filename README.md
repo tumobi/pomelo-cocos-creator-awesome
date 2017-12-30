@@ -1,5 +1,5 @@
 # pomelo-awesome
-学习 pomelo 和 Cocos Creator 过程中收集的资料
+学习 pomelo 和 Cocos Creator 过程中收集的资料，交流 QQ 群：**390562874**
 
 # 教程
 + [nodejs+pomelo+mysql实战经验分享](https://cnodejs.org/topic/582e992f0249714d79d41a74)
@@ -22,5 +22,3 @@
 + [大圣棋牌 -（Pomelo + Cocos Creator）](https:/github.com/ligun123/chess)
 + [一个 TypeScript 写的 node.js 分布式游戏/应用服务器框架（原型基于pomelo）](https://github.com/node-pinus/pinus)
 + [用 cocos2d-js 和 pomelo 开发的 MMORPG 传奇手游《空空西游》](https://github.com/linyouhappy/kongkongxiyou)
-
-
