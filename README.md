@@ -1,4 +1,4 @@
-# pomelo-awesome
+# pomelo-cocos-creator-awesome
 学习 pomelo 和 Cocos Creator 过程中收集的资料，棋牌开发交流 QQ 群：**390562874**
 
 # 教程
