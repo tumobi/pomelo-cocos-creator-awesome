@@ -24,3 +24,4 @@
 + [大圣棋牌 -（Pomelo + Cocos Creator）](https://github.com/ligun123/chess)
 + [一个 TypeScript 写的 node.js 分布式游戏/应用服务器框架（原型基于pomelo）](https://github.com/node-pinus/pinus)
 + [用 cocos2d-js 和 pomelo 开发的 MMORPG 传奇手游《空空西游》](https://github.com/linyouhappy/kongkongxiyou)
++ [贝密游戏（麻将、德州、斗地主）- （Cocos Creater + Java）](https://gitee.com/beimigame/beimi)
