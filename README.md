@@ -20,6 +20,7 @@
 
 # 开源项目
 + [躲猫猫 - (cocos creator + pomelo)](https://github.com/wohow/peekaboo-master)
++ [幼麟棋牌-四川麻将v1.0 - (cocos creator + Node.js + Express + Socket.IO)](https://github.com/babykylin/babykylin_scmj)
 + [大圣棋牌 -（Pomelo + Cocos Creator）](https://github.com/ligun123/chess)
 + [一个 TypeScript 写的 node.js 分布式游戏/应用服务器框架（原型基于pomelo）](https://github.com/node-pinus/pinus)
 + [用 cocos2d-js 和 pomelo 开发的 MMORPG 传奇手游《空空西游》](https://github.com/linyouhappy/kongkongxiyou)
