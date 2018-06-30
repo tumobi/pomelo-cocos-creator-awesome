@@ -11,6 +11,7 @@
 + [remote的写法支持es6的class么](https://github.com/NetEase/pomelo/issues/869)
 + [pomelo-admin-web 不能使用及其解决方案](https://github.com/itenyh/pomelo_admin_web_glue)
 + [Pomelo 常见问题集](https://cnodejs.org/topic/51ca033873c638f370e9cce5)
++ [Pomelo Node.js 版客户端](https://github.com/lessu/pomelo-node-client-websocket)
 
 # Cocos Creator 教程
 + [CocosCreator-Pomelo-plugin](https://github.com/tumobi/CocosCreator-Pomelo-plugin) Cocos Creator客户端Pomelo插件
