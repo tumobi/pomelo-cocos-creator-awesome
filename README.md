@@ -8,7 +8,7 @@
 + [pomelo - 寒风 - CSDN博客](http://blog.csdn.net/xufeng0991/article/category/3173009)
 + [专栏：pomelo入门 - CSDN博客](http://blog.csdn.net/column/details/pomelo.html)
 + [分类: Pomelo | Vitah's Blog](http://www.vitah.net/categories/Pomelo/)
-+ [remote的写法支持es6的class么](https://github.com/NetEase/pomelo/issues/869)
++ [remote 现在可以用ES6 Class写？](https://github.com/NetEase/pomelo/issues/1086)
 + [pomelo-admin-web 不能使用及其解决方案](https://github.com/itenyh/pomelo_admin_web_glue)
 + [Pomelo 常见问题集](https://cnodejs.org/topic/51ca033873c638f370e9cce5)
 + [Pomelo Node.js 版客户端](https://github.com/lessu/pomelo-node-client-websocket)
